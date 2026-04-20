@@ -1,0 +1,25 @@
+{
+  "version": "1.1",
+  "changelog": [
+    "нихуя просто проверка"
+  ],
+  "requires_restart": true,
+  "files": {
+    "Guide.txt": "89aff51a0b786acfc87f8089efbe1937",
+    "app.py": "0603cee0c0a4cea8ed8fa0e4b07893ea",
+    "claude_oauth.py": "c2da8129610ef76425dd147ca089d3e8",
+    "compositor.py": "bf9b1645a450554f42aa85e2cc2a7f90",
+    "config.py": "c445f6582764fa0879292d052335142f",
+    "image_fetcher.py": "71673a4080214fcaa6f77aedddec6f04",
+    "install.sh": "d19179e6e2a1b144948cc369ea63cd2d",
+    "keyword_extractor.py": "835317ba05c0419e099953436946ca23",
+    "openai_oauth.py": "f3476079fb5c6d6d583aa1f80414a74e",
+    "requirements.txt": "69d4345cd96ccf8eca8604dc8c94e7bb",
+    "rerender.py": "ebcd2246250ebe81956329b43351d046",
+    "run.command": "8cc0236219613e2a24af283d932ef793",
+    "thumbnail_generator.py": "259058d3d3c4611418f0d6d0ac418c17",
+    "transcriber.py": "6b0103453f6286a5b5034b485f98d532",
+    "updater.py": "aa9ad1318491986933488541f6955eb1",
+    "utils.py": "c05871c7447f2685ac8e71908e5c7661"
+  }
+}

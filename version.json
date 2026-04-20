@@ -1,12 +1,12 @@
 {
   "version": "1.1",
   "changelog": [
-    "нихуя просто проверка"
+    "еще раз нихуя"
   ],
   "requires_restart": true,
   "files": {
     "Guide.txt": "89aff51a0b786acfc87f8089efbe1937",
-    "app.py": "0603cee0c0a4cea8ed8fa0e4b07893ea",
+    "app.py": "a062044f4e172418549928f2d4acf444",
     "claude_oauth.py": "c2da8129610ef76425dd147ca089d3e8",
     "compositor.py": "bf9b1645a450554f42aa85e2cc2a7f90",
     "config.py": "c445f6582764fa0879292d052335142f",
@@ -19,7 +19,7 @@
     "run.command": "8cc0236219613e2a24af283d932ef793",
     "thumbnail_generator.py": "259058d3d3c4611418f0d6d0ac418c17",
     "transcriber.py": "6b0103453f6286a5b5034b485f98d532",
-    "updater.py": "aa9ad1318491986933488541f6955eb1",
+    "updater.py": "dae3b3f16191fffe9f7d529457523902",
     "utils.py": "c05871c7447f2685ac8e71908e5c7661"
   }
 }

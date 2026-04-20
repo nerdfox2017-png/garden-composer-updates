@@ -1,9 +1,9 @@
 {
   "version": "1.1",
   "changelog": [
-    "еще раз нихуя"
+    "все нах"
   ],
-  "requires_restart": true,
+  "requires_restart": false,
   "files": {
     "Guide.txt": "89aff51a0b786acfc87f8089efbe1937",
     "app.py": "a062044f4e172418549928f2d4acf444",
@@ -20,6 +20,6 @@
     "thumbnail_generator.py": "259058d3d3c4611418f0d6d0ac418c17",
     "transcriber.py": "6b0103453f6286a5b5034b485f98d532",
     "updater.py": "dae3b3f16191fffe9f7d529457523902",
-    "utils.py": "c05871c7447f2685ac8e71908e5c7661"
+    "utils.py": "c666e4df37cc6f971f72fb77002f19c1"
   }
 }

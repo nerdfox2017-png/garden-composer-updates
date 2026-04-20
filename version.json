@@ -1,12 +1,12 @@
 {
   "version": "1.1",
   "changelog": [
-    "все нах"
+    "1.2 fix"
   ],
-  "requires_restart": false,
+  "requires_restart": true,
   "files": {
     "Guide.txt": "89aff51a0b786acfc87f8089efbe1937",
-    "app.py": "a062044f4e172418549928f2d4acf444",
+    "app.py": "12c0722635cdc960b5c89179c44b9682",
     "claude_oauth.py": "c2da8129610ef76425dd147ca089d3e8",
     "compositor.py": "bf9b1645a450554f42aa85e2cc2a7f90",
     "config.py": "c445f6582764fa0879292d052335142f",
